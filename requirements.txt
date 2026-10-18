@@ -1,0 +1,11 @@
+streamlit
+openai
+python-dotenv
+guardrails-ai
+#main Guardrails AI framework for Python. It helps you define validation rules, 
+#apply them to inputs or outputs, and decide what happens when validation fails.
+guardrails-ai-valid-length
+#separate validator package that checks whether a string or list 
+#falls within a specified minimum and maximum length.
+guardrails-ai-detect-pii
+guardrails-ai-detect-jailbreak
